@@ -1,0 +1,6 @@
+
+.vs/
+/CodeBuild/bin
+/CodeBuild/obj
+*.user
+*.log
